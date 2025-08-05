@@ -1,4 +1,4 @@
-# Simone Says Game !!
+## Simone Says Game !!
 Using HTML, CSS & JS.
 
 # A Memory Challange for all!
